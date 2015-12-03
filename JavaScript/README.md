@@ -1,0 +1,1 @@
+This directory contains all the necessary CSS code for a website that serves as a quickstart guide and tutorial for virtualizing an IBM Hardware Management Console and using it to administrate PowerPC servers
